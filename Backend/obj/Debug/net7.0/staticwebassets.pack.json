@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\Head.png",
+      "PackagePath": "staticwebassets\\build\\Head.png"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\HigtechLogo.png",
+      "PackagePath": "staticwebassets\\build\\HigtechLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\build\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\index.html",
+      "PackagePath": "staticwebassets\\build\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\logo.jpeg",
+      "PackagePath": "staticwebassets\\build\\logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\logo192.png",
+      "PackagePath": "staticwebassets\\build\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\logo512.png",
+      "PackagePath": "staticwebassets\\build\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\manifest.json",
+      "PackagePath": "staticwebassets\\build\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\robots.txt",
+      "PackagePath": "staticwebassets\\build\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\css\\main.bbed65fe.css",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.bbed65fe.css"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\css\\main.bbed65fe.css.map",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.bbed65fe.css.map"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\513.4b7cc869.chunk.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\513.4b7cc869.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\513.4b7cc869.chunk.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\513.4b7cc869.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\703.7e23af80.chunk.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\703.7e23af80.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\703.7e23af80.chunk.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\build\\static\\js\\703.7e23af80.chunk.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\703.7e23af80.chunk.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\703.7e23af80.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\787.a743e0dc.chunk.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\787.a743e0dc.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\787.a743e0dc.chunk.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\787.a743e0dc.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\main.cf94a43f.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.cf94a43f.js"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\main.cf94a43f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.cf94a43f.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\js\\main.cf94a43f.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.cf94a43f.js.map"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\media\\HigtechLogo.970cf835285b5eb21061.png",
+      "PackagePath": "staticwebassets\\build\\static\\media\\HigtechLogo.970cf835285b5eb21061.png"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\media\\HigtechLogo.d9d65153a8067b83bbab.jpeg",
+      "PackagePath": "staticwebassets\\build\\static\\media\\HigtechLogo.d9d65153a8067b83bbab.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\media\\LoginBackground.f4381791eae394b7ccd4.jpg",
+      "PackagePath": "staticwebassets\\build\\static\\media\\LoginBackground.f4381791eae394b7ccd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\media\\foto1.4e23778c971ed8da7011.PNG",
+      "PackagePath": "staticwebassets\\build\\static\\media\\foto1.4e23778c971ed8da7011.PNG"
+    },
+    {
+      "Id": "C:\\Users\\steph\\Documents\\EdwinPracticeTool\\backend\\wwwroot\\build\\static\\media\\foto2.b046f17ca80cfb6cad98.PNG",
+      "PackagePath": "staticwebassets\\build\\static\\media\\foto2.b046f17ca80cfb6cad98.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LoginApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LoginApi.props",
+      "PackagePath": "build\\LoginApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LoginApi.props",
+      "PackagePath": "buildMultiTargeting\\LoginApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LoginApi.props",
+      "PackagePath": "buildTransitive\\LoginApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Appelsap",
+            "database": "${workspaceFolder:EdwinPracticeTool}/Backend/LoginApi.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
