@@ -1,0 +1,154 @@
+body.dashboard {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('../images/LoginBackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.dashboard {
+  display: flex;
+  width: calc(100vw - 250px);
+  
+  margin-left: 250px;
+  background-image: url('../images/LoginBackground.jpg');
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+  height: 100vh;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.navigation {
+  margin-top: 20px;
+}
+
+.nav-button {
+  display: block;
+  margin-top: 10px;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.nav-button:hover {
+  background-color: #e0e0e0;
+}
+
+.nav-button.active {
+  background-color: #d0d0d0;
+}
+
+.nav-button > button {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+.main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.header {
+  padding: 40px;
+  box-sizing: border-box;
+  background: #077da1;
+  color: black;
+  position: relative;
+  border-bottom: none;
+  font-weight: bold;
+  z-index: 1;
+
+  width: 100%;
+}
+
+.page-title {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.header::before {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100vh;
+  height: 1px;
+  background-color: transparent;
+}
+
+.content {
+  flex-grow: 1;
+  padding: 20px;
+  box-sizing: border-box;
+  background-image: url('../images/LoginBackground.jpg');
+  background-size: cover;
+}
+
+.download-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #043C85;
+  color: #FFFFFF;
+  border-radius: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+.appelsap {
+  background-color: #FD8B7C;
+}
+.chart-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.radar-chart {
+  margin-right: 20px;
+}
+
+.results {
+  margin-top: 0px;
+}
+
+.recharts-polygon.recharts-radar-polygon {
+  fill: #3487C7;
+  fill-opacity: 0.6;
+  stroke-width: 0;
+}

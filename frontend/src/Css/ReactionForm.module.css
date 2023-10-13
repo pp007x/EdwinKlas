@@ -1,0 +1,138 @@
+/* ReactionForm.module.css */
+
+.form-control {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  width: 100%;
+  background: rgb(227, 224, 224);
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.1); /* Add some shadow for a card-like effect */
+  border-radius: 10px; /* Rounded corners for the card */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Keep the overall alignment centered */
+  justify-content: center;
+}
+.drag-area {
+  display: flex;
+  flex-direction: row; /* Ensure it is row */
+  flex-wrap: wrap;
+}
+
+
+.major-draggable-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.draggable-block {
+  flex: 1;
+  margin: 10px;
+}
+
+.divider {
+  height: 1px;
+  background-color: #e20c0c;  /* You can choose your own color */
+  margin: 8px 0;  /* Add some margin to top and bottom */
+}
+.bordered-box {
+  border: 3px solid #000000;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.draggable-item {
+  padding: 5px;
+  margin-bottom: 10px; /* Spacing between items in the block */
+  border: 1px solid #ddd;
+  text-align: center;
+  background-color: #007ba5;
+  cursor: pointer;
+  color: #ffffff;
+}
+.hulpvakjes-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+
+.form-control > div {
+  display: grid;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  align-self: stretch; /* Forces the div to stretch to the full width of its parent */
+}
+
+.form-control > form {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align form elements to the start of the cross axis (the left side in this case) */
+}
+
+
+
+.answer-options {
+  display: flex;
+  flex-direction: column;
+}
+
+.answer-options label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.answer-options input[type='radio'] {
+  margin-right: 10px;
+  height: 25px;
+  width: 25px;
+}
+
+
+button {
+  padding: 10px 20px;
+  background-color: #007ba5;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+  font-size: 1em;
+  align-items: center;
+}
+
+.questionform{
+  font-weight: bold;
+}
+
+.answerform{
+  font-weight: normal;
+}
+
+.reactionform {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 90%;
+}
+
+
+
+/* Additional Styles */
+
+body {
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+}

@@ -1,0 +1,10 @@
+/* App.css */
+.custom-background {
+    background-image: url('../../images/LoginBackground.jpg');
+    background-size: cover;
+    overflow: auto;
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 100vh;
+  }
+  
